@@ -473,10 +473,10 @@ span.fa.fa-shopping-cart.my-cart-icon {
 .home-hero-bg{
     background: linear-gradient(
     135deg,
-    rgba(146, 50, 50, 0.7) 0%,
-    rgba(146, 50, 50, 0.6) 100%
+    rgba(177, 51, 51, 0.7) 0%,
+    rgba(168, 40, 40, 0.6) 100%
   ),
-  url("../images/home-hero-bg.svg") center no-repeat;
+  url("../images/home-hero-bg.jpg") center repeat;
   background-size: contain;
 }
 .banner-info {
